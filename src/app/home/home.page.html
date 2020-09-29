@@ -1,20 +1,42 @@
-<ion-header [translucent]="true">
-  <ion-toolbar>
-    <ion-title>
-      Blank
-    </ion-title>
-  </ion-toolbar>
-</ion-header>
-
-<ion-content [fullscreen]="true">
-  <ion-header collapse="condense">
-    <ion-toolbar>
-      <ion-title size="large">Blank</ion-title>
-    </ion-toolbar>
-  </ion-header>
-
-  <div id="container">
-    <strong>Ready to create an app?</strong>
-    <p>Start with Ionic <a target="_blank" rel="noopener noreferrer" href="https://ionicframework.com/docs/components">UI Components</a></p>
+<ion-content [fullscreen]="true" class="homeContent">
+  <div class="headerBlock">
+    <div class="headerText">logo quiz duel</div>
   </div>
+
+  <ion-grid>
+    <ion-row>
+      <ion-col>
+        <div class="homeImg"></div>
+      </ion-col>
+    </ion-row>
+
+    <ion-row>
+      <ion-col style="text-align: right;">
+        <ion-button class="startBtn" (click)="onClickStart()">
+          <ion-icon slot="start" name="logo-google-playstore"></ion-icon>
+          start
+        </ion-button>
+      </ion-col>
+      <ion-col style="text-align: left;">
+        <ion-button class="settingsBtn" (click)="onClickSettings()">
+          <ion-icon slot="start" name="settings-outline"></ion-icon>
+          settings
+        </ion-button>
+      </ion-col>
+    </ion-row>
+
+    <ion-row class="smolIconRow">
+      <ion-col style="text-align: right;">
+        <ion-icon class="smallIcon starIcon" name="star"></ion-icon>
+      </ion-col>
+
+      <ion-col style="text-align: center;">
+        <ion-icon class="smallIcon infoIcon" name="information-circle"></ion-icon>
+      </ion-col>
+
+      <ion-col style="text-align: left;">
+        <ion-icon class="smallIcon helpIcon" name="help-circle"></ion-icon>
+      </ion-col>
+    </ion-row>
+  </ion-grid>
 </ion-content>

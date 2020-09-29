@@ -1,0 +1,126 @@
+ion-content {
+    --ion-background-color: #96B8D0
+}
+
+ion-card {
+    width: 80%;
+    margin: 0 auto;
+    padding: 12px 0;
+
+    border: 4px solid #F8F7F6;
+    border-radius: 12px;
+}
+
+ion-card-header {
+    width: 100%;
+    color: #F8F7F6;
+    
+    padding-top: 6px;
+    padding-bottom: 6px;
+}
+
+ion-card-content {
+    font-size: 12pt;
+    font-weight: 300;
+    color: #F8F7F6;
+    text-align: center;
+}
+
+ion-card-title {
+    text-align: center;
+}
+
+ion-button, .modeCard {
+    cursor: pointer;
+}
+
+
+
+h2 {
+    position: absolute;
+    top: 30%;
+    width: 100%;
+    text-align: center;
+}
+
+ion-spinner {
+    width: 128px;
+    height: 128px;
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.timerNumber {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    font-size: 32pt;
+}
+
+
+
+.headerCardContainer {
+    height: 128px;
+    margin: 48px 24px;
+}
+
+.modeCardContainer {
+    height: 50%;
+    margin: auto 24px;
+}
+
+.headerCard {
+    height: 100%;
+    border-color: #4F565B;
+    background-color: #F8F7F6;
+}
+
+.headerHeader, .modeCardInner {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+
+.headerTitle {
+    font-size: 18pt;
+    font-weight: 400;
+
+    --color: #4F565B;
+}
+
+
+.modeCard {
+    height: 40%;
+    margin: 10% auto;
+
+    background-color: #8C9BAE;
+}
+
+.modeCard:hover {
+    background-color: rgb(114, 125, 141);
+}
+
+.modeTitle {
+    font-size: 16pt;
+    font-weight: 300;
+    text-decoration: underline;
+
+    --color: #F8F7F6
+}
+
+
+.backButton {
+    position: fixed;
+    width: 60%;
+    bottom: 48px;
+
+    // center horizontally
+    left: 50%;
+    transform: translateX(-50%);
+}

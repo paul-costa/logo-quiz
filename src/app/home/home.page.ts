@@ -1,4 +1,6 @@
 import { Component } from '@angular/core';
+import { Router } from '@angular/router';
+import { HomeService } from './home.service';
 
 @Component({
   selector: 'app-home',
@@ -7,6 +9,16 @@ import { Component } from '@angular/core';
 })
 export class HomePage {
 
-  constructor() {}
+  constructor(
+    private homeService: HomeService,
+  ) {}
 
+
+  onClickStart() {
+    this.homeService.showGamemodeModal();
+  }
+
+  onClickSettings() {
+
+  }
 }

@@ -1,27 +1,125 @@
-#container {
-  text-align: center;
+// #container {
+//   text-align: center;
 
-  position: absolute;
-  left: 0;
-  right: 0;
+//   position: absolute;
+//   left: 0;
+//   right: 0;
+//   top: 50%;
+//   transform: translateY(-50%);
+// }
+
+// #container strong {
+//   font-size: 20px;
+//   line-height: 26px;
+// }
+
+// #container p {
+//   font-size: 16px;
+//   line-height: 22px;
+
+//   color: #8c8c8c;
+
+//   margin: 0;
+// }
+
+// #container a {
+//   text-decoration: none;
+// }
+
+ion-content {
+  --ion-background-color: #F8F7F6;
+}
+
+.headerBlock {
+  width: 100%;
+  height: 192px;
+
+  background-color: #96B8D0;
+  color: #F8F7F6;
+
+  font-size: 38pt;
+  font-weight: 100;
+
+  text-align: center;
+}
+
+.headerText {
+  position: relative;
   top: 50%;
   transform: translateY(-50%);
 }
 
-#container strong {
-  font-size: 20px;
-  line-height: 26px;
+
+.homeImg {
+  height: 264px;
+  width: 156px;
+
+  margin: 36px auto;;
+
+  background-image: url('../../assets/big.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
 }
 
-#container p {
-  font-size: 16px;
-  line-height: 22px;
 
-  color: #8c8c8c;
+.startBtn, .settingsBtn  {
+  width: 152px;
+  height: 52px;
+  border-radius: 6px;
 
-  margin: 0;
+  --background: #4F565B;
+
 }
 
-#container a {
-  text-decoration: none;
+.settingsBtn {
+  --background: #F8F7F6;
+  --color: #4F565B;
+
+  border: 3px solid #4F565B;
 }
+
+
+
+.smallBtn {
+  width: 40px;
+  height: 40px;
+  border-radius: 100%;
+}
+
+.smolIconRow {
+  margin-top: 24px;
+  color: #4F565B;
+}
+
+.smallIcon {
+  cursor: pointer;
+  width: 36px;
+  height: 36px;
+
+  z-index: 2;
+  border-radius: 6px;
+  transition: 250ms;
+}
+
+.smallIcon:hover {
+  background-color: grey;
+  transform: rotate(360deg);
+}
+
+
+
+
+
+.starIcon {
+  margin-right: 6px;
+}
+.infoIcon {
+
+}
+.helpIcon {
+  margin-left: 6px;
+
+}
+
+

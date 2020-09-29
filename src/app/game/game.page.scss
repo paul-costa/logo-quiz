@@ -1,0 +1,133 @@
+ion-content {
+    --ion-background-color: #96B8D0;
+}
+
+.topSelectContainer {
+    position: absolute;
+    width: 100%;
+    top: 0;
+    transform: rotate(180deg);
+}
+
+.topCard, .bottomCard {
+    --ion-background-color: #4F565B;
+    border: 6px solid #F8F7F6;
+    border-radius: 12px;
+    height: 128px;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.topCard {
+    transform: rotate(180deg);
+    margin-bottom: 28px;
+}
+.bottomCard {
+    margin-top: 28px;
+}
+
+
+
+
+.cardImg {
+    height: 64px;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+
+    margin: 26px auto 0px auto;
+}
+
+
+.centerContainer {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 100%;
+}
+
+
+ion-item {
+    --min-height: 44px;
+    text-align: center;
+    color: #F8F7F6;
+}
+
+ion-label {
+    margin: 0;
+}
+
+.topSelectItem, .bottomSelectItem  {
+    width: 70%;
+    height: 48px;
+    margin: 0px auto 24px auto;
+
+    text-align: center;
+
+    border: 2px solid #F8F7F6;
+    border-radius: 6px;
+
+    cursor: pointer;
+    transition: 250ms;
+
+    --ion-background-color: #8C9BAE;
+}
+
+.bottomSelectContainer {
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+}
+
+.bottomSelectItem:hover, .topSelectItem:hover {
+    transform: scale(1.15);
+}
+
+
+
+
+
+
+
+.timer, .timerbar, .timerbarSuccess, .timerbarFailure {
+    position: absolute;
+    top: 50%;
+    right: 50%;
+
+    transform: translate(50%, -50%);
+
+    width: 90%;
+    height: 14px;
+
+    border: 1px solid black;
+    border-radius: 6px
+}
+
+.timerbar {
+    background-color: #9B2C85;
+    width: 0%;
+
+    // start timer
+    animation-duration: 10s;
+    animation-name: shrinkTimeBar;
+}
+
+@keyframes shrinkTimeBar {
+    from {
+        width: 90%;
+    }
+    to {
+        width: 0%;
+    }
+}
+
+.timerbarSuccess {
+    background-color: green;
+    width: 90%;
+}
+
+.timerbarFailure {
+    background-color: red;
+    width: 90%;
+}

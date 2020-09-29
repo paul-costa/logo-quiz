@@ -1,0 +1,33 @@
+<svg id="Netscape_Navigator-Logo.wine" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="128.031" height="128" viewBox="0 0 128.031 128">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill-rule: evenodd;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.497" y1="0.623" x2="0.49" y2="0.003" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#38aab0"/>
+      <stop offset="1" stop-color="#0f5f68"/>
+    </linearGradient>
+  </defs>
+  <path id="Path_113" data-name="Path 113" class="cls-1" d="M0,924.362H128v128H0Z" transform="translate(0.007 -924.362)"/>
+  <g id="Group_11" data-name="Group 11" transform="translate(-298.488 -341.568)">
+    <path id="Path_114" data-name="Path 114" class="cls-2" d="M335.2,370.918l4.1,4.681v54.43h-4.1Z"/>
+    <path id="Path_115" data-name="Path 115" class="cls-2" d="M335.78,371.885l4.153,4.634v53.51H335.78Z"/>
+    <path id="Path_116" data-name="Path 116" class="cls-3" d="M324.154,431.137c7.512.5,10.552-2.105,11.9-7.2l4.152.83c1.376,2.8,2.417,5.716,10.243,6.368v1.937H323.877Zm.032-65.749,5.493.732,2.013,1.1,46.686,52.545,14.464,1.464L386.8,412.44l-43.573-48.333-19.04-.184Z"/>
+    <path id="Path_117" data-name="Path 117" class="cls-3" d="M324.186,365.388l5.493.732,2.013,1.1,46.686,52.545,14.464,1.464L386.8,412.44l-43.573-48.333-19.04-.184Z"/>
+    <rect id="Rectangle_2" data-name="Rectangle 2" class="cls-2" width="4.152" height="57.025" transform="translate(388.653 366.361)"/>
+    <path id="Path_118" data-name="Path 118" class="cls-3" d="M377.027,365.253c7.438-.2,10.327,3.005,11.9,7.2l4.152-.83c1.376-2.8,2.416-5.716,10.242-6.368v-1.937H376.75Z"/>
+    <path id="Path_119" data-name="Path 119" d="M362.87,419.068c-24.4,0-46.795,4.029-64.375,10.719v39.781h128V429.506C409.03,422.986,386.923,419.068,362.87,419.068Z"/>
+    <path id="Path_120" data-name="Path 120" class="cls-3" d="M323.6,425.684c7.337.2,10.186-3,11.74-7.2l4.1.83c1.357,2.8,2.384,5.715,10.1,6.367v1.938H323.324Z"/>
+    <path id="Path_121" data-name="Path 121" class="cls-2" d="M362.816,419.01c-24.456,0-46.667,4.044-64.317,10.76v.36l-.011.308.89-.022c17.4-6.493,39.442-10.406,63.438-10.406,22.16,1.219,44.95,3.765,63.678,10.45v-.346l.012-.366.013-.236c-17.533-6.545-39.6-10.5-63.7-10.5Z"/>
+  </g>
+</svg>

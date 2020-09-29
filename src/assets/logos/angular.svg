@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="254.326" height="269.413" viewBox="0 0 254.326 269.413">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #b3b3b3;
+      }
+
+      .cls-2 {
+        fill: #a6120d;
+      }
+
+      .cls-3 {
+        fill: #dd1b16;
+      }
+
+      .cls-4 {
+        fill: #f2f2f2;
+      }
+    </style>
+  </defs>
+  <g id="angular-icon" transform="translate(-0.849 -0.341)">
+    <path id="Path_257" data-name="Path 257" class="cls-1" d="M127.606.341.849,44.95,20.88,211.022l106.86,58.732,107.412-59.528L255.175,44.16Z"/>
+    <path id="Path_258" data-name="Path 258" class="cls-2" d="M242.532,53.758,127.31,14.466V255.722l96.561-53.441,18.66-148.523Z"/>
+    <path id="Path_259" data-name="Path 259" class="cls-3" d="M15.073,54.466,32.238,202.991l95.07,52.731V14.462l-112.234,40Z"/>
+    <path id="Path_260" data-name="Path 260" class="cls-4" d="M159.027,142.9,127.31,157.73H93.881L78.167,197.035l-29.228.54L127.31,23.227,159.027,142.9Zm-3.066-7.467-28.44-56.3-23.329,55.334h23.117l28.652.97Z"/>
+    <path id="Path_261" data-name="Path 261" class="cls-1" d="M127.309,23.226l.21,55.9,26.47,55.377h-26.62l-.06,23.189,36.81.035,17.2,39.852,27.967.518L127.309,23.226Z"/>
+  </g>
+</svg>

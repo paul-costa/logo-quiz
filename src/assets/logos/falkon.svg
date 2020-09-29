@@ -1,0 +1,82 @@
+<svg id="Falkon-Logo.wine" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40.54" height="40" viewBox="0 0 40.54 40">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #a3a3a3;
+        stroke-width: 0.558px;
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        opacity: 0.4;
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9 {
+        fill-rule: evenodd;
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient-4);
+      }
+
+      .cls-5 {
+        fill: url(#linear-gradient-5);
+      }
+
+      .cls-6 {
+        fill: #202020;
+      }
+
+      .cls-7 {
+        fill: url(#linear-gradient-6);
+      }
+
+      .cls-8 {
+        fill: url(#linear-gradient-7);
+      }
+
+      .cls-9 {
+        fill: url(#linear-gradient-8);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="4.729" y1="-0.889" x2="-0.704" y2="3.191" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#d446ff"/>
+      <stop offset="1" stop-color="#a0d8ff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.532" y1="0.562" x2="1.108" y2="1.264" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#292c2f"/>
+      <stop offset="1" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="1.23" y1="2.684" x2="2.651" y2="1.57" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#dadada"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="2.001" y1="4.903" x2="0.58" y2="2.73" xlink:href="#linear-gradient-3"/>
+    <linearGradient id="linear-gradient-5" x1="2.403" y1="1.5" x2="0.913" y2="2.696" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#d0d0d0"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-6" x1="1.122" y1="3.632" x2="-0.915" y2="7.014" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffdc68"/>
+      <stop offset="1" stop-color="#ce4300"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-7" x1="1.426" y1="24.635" x2="-0.149" y2="26.837" xlink:href="#linear-gradient-6"/>
+    <linearGradient id="linear-gradient-8" x1="1.261" y1="8.884" x2="-1.26" y2="17.547" xlink:href="#linear-gradient-6"/>
+  </defs>
+  <ellipse id="Ellipse_1" data-name="Ellipse 1" class="cls-1" cx="19.991" cy="19.721" rx="19.991" ry="19.721" transform="translate(0.279 0.279)"/>
+  <path id="Path_37" data-name="Path 37" class="cls-2" d="M35.487,15.486,18,8l-8.775.484L14,13.244,5.536,24.424,7.113,26,9,29l-.467,6.941q.392.283.8.547l23.7-1.34,0,0a19.619,19.619,0,0,0,7.211-14.9Z"/>
+  <g id="Group_2" data-name="Group 2">
+    <path id="Path_38" data-name="Path 38" class="cls-3" d="M11.262,43.28s6.247-21.963,30.565-19.17c0,0-15.455-9.218-30.458,3.209-4.432,10.312-.107,15.96-.107,15.96Z" transform="translate(-3.999 -4)"/>
+    <path id="Path_39" data-name="Path 39" class="cls-4" d="M13.122,40.5S19.64,24.712,37.04,24.435c-13.226,3.237.022,14.714.022,14.714A20.209,20.209,0,0,1,13.122,40.5Z" transform="translate(-3.999 -4)"/>
+    <path id="Path_40" data-name="Path 40" class="cls-5" d="M9.492,28.4s13.02-14.388,32.463-4.447a8.239,8.239,0,0,0-6.77-6.628c-.912-.436-7.595-10.813-21.96-4.84,4.419.346,6.315.968,6.423,1.44C12.005,12.6,9.74,23.529,9.492,28.4Z" transform="translate(-3.999 -4)"/>
+    <path id="Path_41" data-name="Path 41" class="cls-6" d="M24.166,12.192s3.331-1.2,3.765,2.367c-3.285.31-3.765-2.367-3.765-2.367Z"/>
+    <path id="Path_42" data-name="Path 42" class="cls-7" d="M11.175,43.35s5.694-18.662,24.734-19.385c0,0-15.45-2.832-26.362,14.534a9.416,9.416,0,0,0,1.628,4.852Z" transform="translate(-3.999 -4)"/>
+    <path id="Path_43" data-name="Path 43" class="cls-8" d="M13.24,12.485s4.75.278,6.445,1.45a1.7,1.7,0,0,0,1.411-1.3c-.607-.253-6.167-.707-7.855-.153Z" transform="translate(-3.999 -4)"/>
+    <path id="Path_44" data-name="Path 44" class="cls-9" d="M9.535,28.423s5.946-7.175,17.948-8.032c0,0-16.34.742-17.71,5.377a7.622,7.622,0,0,0-.238,2.655Z" transform="translate(-3.999 -4)"/>
+  </g>
+</svg>

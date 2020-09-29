@@ -1,0 +1,13 @@
+<svg id="Urbit-Logo.wine" xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #000;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <circle id="Ellipse_9" data-name="Ellipse 9" class="cls-1" cx="13" cy="13" r="13" transform="translate(1 1)"/>
+  <path id="Path_166" data-name="Path 166" d="M20,12.049H17.631c-.178,1.049-.637,1.683-1.452,1.683C14.7,13.732,13.86,12,11.567,12,9.35,12,8.178,13.366,8,15.976h2.369c.178-1.073.637-1.707,1.478-1.707,1.478,0,2.267,1.732,4.611,1.732,2.166,0,3.363-1.366,3.541-3.951Z"/>
+</svg>

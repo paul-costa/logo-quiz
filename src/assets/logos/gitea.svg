@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="125.181" height="77.544" viewBox="0 0 125.181 77.544">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        fill: #609926;
+      }
+
+      .cls-1 {
+        stroke: #428f29;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        fill: none;
+        stroke: #609926;
+        stroke-width: 2.68px;
+      }
+    </style>
+  </defs>
+  <g id="Gitea-Logo.wine" transform="translate(0.002)">
+    <path id="Path_85" data-name="Path 85" class="cls-1" d="M22.16.5C12.613.473-.18,7.3.528,24.4,1.633,51.133,25.985,53.612,35.72,53.827c1.068,5.014,12.522,22.306,21,23.217H93.874c22.278-1.668,38.961-75.757,26.593-76.038-46.782,2.477-50,2.138-88.6,0C29.373.979,25.9.511,22.16.5Zm2.491,9.459C26,23.652,28.207,31.663,32.669,43.9,21.286,42.4,11.6,38.678,9.818,24.793c-.951-7.411,2.39-15.168,14.833-14.834Z"/>
+    <g id="Group_3" data-name="Group 3" transform="translate(-5.55 -33.118)">
+      <rect id="Rectangle_1" data-name="Rectangle 1" class="cls-2" width="34.762" height="34.762" rx="5.483" transform="translate(70.715 54.697) rotate(25.915)"/>
+      <path id="Path_86" data-name="Path 86" class="cls-2" d="M79.805,57.359l3.241,1.61V35.256H79.783Z"/>
+    </g>
+    <g id="Group_4" data-name="Group 4" transform="translate(-5.55 -33.118)">
+      <circle id="Ellipse_2" data-name="Ellipse 2" class="cls-3" cx="3.474" cy="3.474" r="3.474" transform="translate(72.226 66.045) rotate(-19.796)"/>
+      <circle id="Ellipse_3" data-name="Ellipse 3" class="cls-3" cx="3.474" cy="3.474" r="3.474" transform="translate(64.769 81.512) rotate(-19.796)"/>
+      <circle id="Ellipse_4" data-name="Ellipse 4" class="cls-3" cx="3.474" cy="3.474" r="3.474" transform="translate(77.032 87.018) rotate(-19.796)"/>
+      <path id="Path_87" data-name="Path 87" class="cls-3" d="M79.54,58.936l2.4,1.173-11.961,24.5-2.4-1.173Z"/>
+      <path id="Path_88" data-name="Path 88" class="cls-4" d="M76.558,68.116c12.976,6.4,13.013,4.1,4.891,20.907"/>
+    </g>
+  </g>
+</svg>

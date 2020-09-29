@@ -1,0 +1,31 @@
+<ion-content [fullscreen]="true" *ngIf="!selectionMade">
+  <div class="headerCardContainer">
+    <ion-card class="headerCard">
+      <ion-card-header class="headerHeader">
+        <ion-card-title class="headerTitle">choose game mode</ion-card-title>
+      </ion-card-header>
+    </ion-card>
+  </div>
+  
+
+  <div class="modeCardContainer">
+    <ion-card class="modeCard" *ngFor="let gameMode of gameModes" (click)="onStartGame(gameMode.id)">
+      <div class="modeCardInner">
+        <ion-card-header>
+          <ion-card-title class="modeTitle">{{gameMode.header}}</ion-card-title>
+        </ion-card-header>
+        <ion-card-content>{{gameMode.subtitle}}</ion-card-content>
+      </div>
+    </ion-card>
+  </div>
+
+
+
+  <ion-button class="backButton" color="primary" (click)="onCancel()">go back</ion-button>
+</ion-content>
+
+<ion-content [fullscreen]="true" *ngIf="selectionMade">
+  <h2>get ready ...</h2>
+  <ion-spinner name="crescent" duration="5000"></ion-spinner>
+  <div class="timerNumber">{{timerNumber}}</div>
+</ion-content>

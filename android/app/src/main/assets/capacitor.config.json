@@ -1,0 +1,8 @@
+{
+  "appId": "at.paulcosta",
+  "appName": "logo-quiz",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {}
+}

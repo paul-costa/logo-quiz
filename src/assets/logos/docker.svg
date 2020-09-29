@@ -1,0 +1,26 @@
+<svg id="docker" xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #006bc0;
+      }
+
+      .cls-2 {
+        fill: #f2f2f2;
+      }
+    </style>
+  </defs>
+  <path id="Path_280" data-name="Path 280" class="cls-1" d="M512,256c0,141.385-114.615,256-256,256S0,397.385,0,256,114.615,0,256,0C386.5,0,494.184,97.646,509.994,223.859a253.8,253.8,0,0,1,1.964,27.784C511.99,253.1,512,254.548,512,256Z"/>
+  <g id="Group_15" data-name="Group 15">
+    <path id="Path_281" data-name="Path 281" class="cls-2" d="M511.958,251.643c-21.859,26.624-64.69,24.545-64.69,24.545-26.415,113.8-185.94,171.719-296.7,143.266S55.056,258.915,55.056,258.915H379.194c26.749,0,28.787-8.129,28.787-8.129-23.709-56.226,12.873-86.371,12.873-86.371,28.453,5.089,35.558,53.854,35.558,53.854a94.935,94.935,0,0,1,53.582,5.59A253.789,253.789,0,0,1,511.958,251.643Z"/>
+    <rect id="Rectangle_3" data-name="Rectangle 3" class="cls-2" width="45.39" height="41.32" transform="translate(89.6 207.433)"/>
+    <rect id="Rectangle_4" data-name="Rectangle 4" class="cls-2" width="45.39" height="41.32" transform="translate(146.641 207.433)"/>
+    <rect id="Rectangle_5" data-name="Rectangle 5" class="cls-2" width="45.39" height="41.32" transform="translate(317.743 207.433)"/>
+    <rect id="Rectangle_6" data-name="Rectangle 6" class="cls-2" width="45.39" height="41.32" transform="translate(260.712 207.433)"/>
+    <rect id="Rectangle_7" data-name="Rectangle 7" class="cls-2" width="45.39" height="41.32" transform="translate(260.712 101.763)"/>
+    <rect id="Rectangle_8" data-name="Rectangle 8" class="cls-2" width="45.39" height="41.32" transform="translate(203.671 207.433)"/>
+    <rect id="Rectangle_9" data-name="Rectangle 9" class="cls-2" width="45.39" height="41.32" transform="translate(146.641 154.593)"/>
+    <rect id="Rectangle_10" data-name="Rectangle 10" class="cls-2" width="45.39" height="41.32" transform="translate(260.712 154.593)"/>
+    <rect id="Rectangle_11" data-name="Rectangle 11" class="cls-2" width="45.39" height="41.32" transform="translate(203.671 154.593)"/>
+  </g>
+</svg>

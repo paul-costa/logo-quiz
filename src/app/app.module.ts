@@ -8,11 +8,17 @@ import { StatusBar } from '@ionic-native/status-bar/ngx';
 
 import { AppComponent } from './app.component';
 import { AppRoutingModule } from './app-routing.module';
+import { SolvedModalComponent } from './game/solved-modal/solved-modal.component';
+import { GamemodeModalComponent } from './home/gamemode-modal/gamemode-modal.component';
 
 @NgModule({
-  declarations: [AppComponent],
-  entryComponents: [],
-  imports: [BrowserModule, IonicModule.forRoot(), AppRoutingModule],
+  declarations: [AppComponent, GamemodeModalComponent, SolvedModalComponent],
+  entryComponents: [GamemodeModalComponent, SolvedModalComponent],
+  imports: [
+    BrowserModule, 
+    IonicModule.forRoot(), 
+    AppRoutingModule,
+  ],
   providers: [
     StatusBar,
     SplashScreen,

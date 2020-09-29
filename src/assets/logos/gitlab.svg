@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="209.854" height="193.311" viewBox="0 0 209.854 193.311">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e24329;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #fc6d26;
+      }
+
+      .cls-3 {
+        fill: #fca326;
+      }
+    </style>
+  </defs>
+  <g id="GitLab-Logo.wine" transform="translate(0 0.001)">
+    <path id="Path_78" data-name="Path 78" class="cls-1" d="M104.927,193.31l38.64-118.921H66.287Z"/>
+    <path id="Path_79" data-name="Path 79" class="cls-2" d="M104.927,193.31,66.287,74.389H12.134Z"/>
+    <path id="Path_80" data-name="Path 80" class="cls-3" d="M12.134,74.389.392,110.528A8,8,0,0,0,3.3,119.472l101.63,73.838Z"/>
+    <path id="Path_81" data-name="Path 81" class="cls-1" d="M12.134,74.39H66.287L43.014,2.763a4,4,0,0,0-7.608,0Z"/>
+    <path id="Path_82" data-name="Path 82" class="cls-2" d="M104.927,193.31l38.64-118.921H197.72Z"/>
+    <path id="Path_83" data-name="Path 83" class="cls-3" d="M197.72,74.389l11.742,36.139a8,8,0,0,1-2.906,8.944L104.927,193.31Z"/>
+    <path id="Path_84" data-name="Path 84" class="cls-1" d="M197.72,74.39H143.567L166.84,2.763a4,4,0,0,1,7.608,0Z"/>
+  </g>
+</svg>

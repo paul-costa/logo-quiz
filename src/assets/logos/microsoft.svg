@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ff5722;
+      }
+
+      .cls-2 {
+        fill: #4caf50;
+      }
+
+      .cls-3 {
+        fill: #ffc107;
+      }
+
+      .cls-4 {
+        fill: #03a9f4;
+      }
+    </style>
+  </defs>
+  <g id="icons8-microsoft" transform="translate(-6 -6)">
+    <path id="Path_287" data-name="Path 287" class="cls-1" d="M6,6H22V22H6Z" transform="translate(28 28) rotate(180)"/>
+    <path id="Path_288" data-name="Path 288" class="cls-2" d="M26,6H42V22H26Z" transform="translate(68 28) rotate(180)"/>
+    <path id="Path_289" data-name="Path 289" class="cls-3" d="M26,26H42V42H26Z" transform="translate(68 68) rotate(180)"/>
+    <path id="Path_290" data-name="Path 290" class="cls-4" d="M6,26H22V42H6Z" transform="translate(28 68) rotate(180)"/>
+  </g>
+</svg>

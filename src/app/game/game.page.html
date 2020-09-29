@@ -1,0 +1,43 @@
+<ion-content [fullscreen]="true">
+
+  <div class="topSelectContainer">
+    <ion-list>
+      <ion-item *ngFor="let logoSelectOption of dataPerGame.options;" class="topSelectItem" (click)="onClickItem(1, logoSelectOption)">
+        <ion-label>{{logoSelectOption}}</ion-label>
+      </ion-item>
+    </ion-list>
+  </div>
+
+
+  <div class="centerContainer">
+    <ion-card class="topCard">
+      <div class="cardImg" [ngStyle]="{'background-image': 'url(' + dataPerGame.filename + ')'}"></div>
+    </ion-card>
+
+    <div class="timer"></div>
+    <div class="timerbar" *ngIf="!solved"></div>
+
+    <div class="timerbarSuccess" *ngIf="solved && solvedCorrect"></div>
+    <div class="timerbarFailure" *ngIf="solved && !solvedCorrect"></div>
+
+    <ion-card class="bottomCard">
+      <div class="cardImg" [ngStyle]="{'background-image': 'url(' + dataPerGame.filename + ')'}"></div>
+    </ion-card>
+  </div>
+
+
+  <div class="bottomSelectContainer">
+    <ion-list>
+      <ion-item *ngFor="let logoSelectOption of dataPerGame.options.reverse();" class="bottomSelectItem" (click)="onClickItem(2, logoSelectOption)">
+        <ion-label>{{logoSelectOption}}</ion-label>
+      </ion-item>
+    </ion-list>
+  </div>
+
+
+  
+
+
+
+
+</ion-content>
